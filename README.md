@@ -1,4 +1,4 @@
-# NodeJS and MongoDB with docker compose
+# Python and PostgreSQL with docker compose
 
 Python REST API app that connects to PostgreSQL that can store and retrieve user data.
 
